@@ -1,5 +1,5 @@
 {
-    "name": "aramics/translator",
+    "name": "aramics/laraveltranslator",
     "description": "Laravel Language Import and Exporter for translation of unlimited files.",
     "type": "library",
     "require": {
