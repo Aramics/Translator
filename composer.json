@@ -1,0 +1,19 @@
+{
+    "name": "Aramics/Translator",
+    "description": "Laravel Language Import and Exporter for translation of unlimited files.",
+    "type": "library",
+    "require": {
+        "maatwebsite/excel": "^3.1"
+    },
+    "authors": [
+        {
+            "name": "Madandola Hammed",
+            "email": "john@example.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Aramics\\Translator\\": "src/"
+        }
+    }
+}
